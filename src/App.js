@@ -1,10 +1,16 @@
 import React from 'react';
-
-
+import {Routes,Route} from 'react-router-dom';
+import Register from './components/UserDetail/Register';
+import SignIn from './components/UserDetail/SignIn';
 
 const App =() => {
   return (
-   <h1>Coming Soon</h1>
+    <>
+      <Routes>
+        <Route path={'/'} element={<Register/>}/>
+        <Route path={'/signin'} element={<SignIn/>} />
+      </Routes>
+    </>
   );
 }
 
