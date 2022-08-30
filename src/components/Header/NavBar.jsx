@@ -1,9 +1,9 @@
 import React from 'react'
 
-const MenuBar = () => {
+const NavBar = () => {
   return (
     <div>MenuBar</div>
   )
 }
 
-export default MenuBar
+export default NavBar

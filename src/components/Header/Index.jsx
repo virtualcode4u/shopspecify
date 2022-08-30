@@ -1,15 +1,15 @@
 import React from 'react'
-import AlertBar from './AlertBar'
-import MenuBar from './MenuBar'
+import TopHeader from './TopHeader'
+import NavBar from './NavBar'
 import SearchBar from './SearchBar'
 
 const Index = () => {
   return (
-    <div>
-        <AlertBar/>
+    <header class="pb-md-4 pb-0">
+        <TopHeader/>
         <SearchBar/>
-        <MenuBar/>
-    </div>
+        <NavBar/>
+    </header>
   )
 }
 
