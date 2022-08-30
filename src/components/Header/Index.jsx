@@ -5,10 +5,10 @@ import SearchBar from './SearchBar'
 
 const Index = () => {
   return (
-    <header class="pb-md-4 pb-0">
-        <TopHeader/>
-        <SearchBar/>
-        <NavBar/>
+    <header className="pb-md-4 pb-0">
+      <TopHeader/>
+      <SearchBar/>
+      <NavBar/>
     </header>
   )
 }

@@ -2,14 +2,16 @@ import React from 'react';
 import Index from './Header/Index';
 import FIndex from './Footer/FIndex';
 import NewsLetter from './NewsLetter/NewsLetter';
+import Main from './Content/Main';
 
 const Home = () => {
   return (
-    <div>
+    <>
         <Index/>
+        <Main/>
         <NewsLetter/>
         <FIndex/>
-    </div>
+    </>
   )
 }
 

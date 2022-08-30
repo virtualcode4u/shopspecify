@@ -6,8 +6,8 @@ import FCopyright from './FCopyright';
 
 const FIndex = () => {
   return (
-    <footer class="section-t-space">
-        <div class="container-fluid-lg">
+    <footer className="section-t-space">
+        <div className="container-fluid-lg">
         <FHeader/>
         <FMenu/>
         <FCopyright/>
