@@ -1,16 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.84487ea8.css",
-    "main.js": "/static/js/main.b018c212.js",
+    "main.css": "/static/css/main.a3e4415e.css",
+    "main.js": "/static/js/main.223ba1c2.js",
     "static/js/787.154fa29c.chunk.js": "/static/js/787.154fa29c.chunk.js",
+    "static/media/bg.png": "/static/media/bg.360e002b28dfaa269c7e.png",
+    "static/media/home-bg.png": "/static/media/home-bg.6238a172a99ce45e05b6.png",
+    "static/media/coming-soon.jpg": "/static/media/coming-soon.784b9cec1d9d1ba4644e.jpg",
+    "static/media/footer-shape-2.png": "/static/media/footer-shape-2.4db5222d2374f58bccb1.png",
+    "static/media/2.jpg": "/static/media/2.9e5bae2cdf6614bb606a.jpg",
+    "static/media/log-in-bg.png": "/static/media/log-in-bg.612a592d04ad65193eab.png",
+    "static/media/1.jpg": "/static/media/1.d76dcf398706feff7af4.jpg",
+    "static/media/bg-body.png": "/static/media/bg-body.3b7fecc4da6b7d486ab5.png",
+    "static/media/10.png": "/static/media/10.8def3bf779e81cfb58c4.png",
+    "static/media/footer-shape.png": "/static/media/footer-shape.de31360e7295422cb1f9.png",
+    "static/media/signin.png": "/static/media/signin.ea6835b096d86833b0ff.png",
     "static/media/signup.png": "/static/media/signup.0d751946a1526495ee9f.png",
+    "static/media/forgot.png": "/static/media/forgot.6e3b0db0dfea9e24b1dd.png",
+    "static/media/bg.jpg": "/static/media/bg.264d40da45897c007611.jpg",
     "index.html": "/index.html",
-    "main.84487ea8.css.map": "/static/css/main.84487ea8.css.map",
-    "main.b018c212.js.map": "/static/js/main.b018c212.js.map",
+    "static/media/11-bg.html": "/static/media/11-bg.e0c75a24759575ee30b1.html",
+    "main.a3e4415e.css.map": "/static/css/main.a3e4415e.css.map",
+    "main.223ba1c2.js.map": "/static/js/main.223ba1c2.js.map",
     "787.154fa29c.chunk.js.map": "/static/js/787.154fa29c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84487ea8.css",
-    "static/js/main.b018c212.js"
+    "static/css/main.a3e4415e.css",
+    "static/js/main.223ba1c2.js"
   ]
 }
