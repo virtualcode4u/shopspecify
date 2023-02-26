@@ -1,19 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d0c50ef.css",
-    "main.js": "/static/js/main.9c2ad2db.js",
+    "main.css": "/static/css/main.33f0f36d.css",
+    "main.js": "/static/js/main.31a59ab6.js",
     "static/js/787.154fa29c.chunk.js": "/static/js/787.154fa29c.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
-    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
-    "static/media/bg.jpg": "/static/media/bg.5ba3c5403dc8900f36b2.jpg",
+    "static/media/webfonts-fa-solid-900.eot": "/static/media/webfonts-fa-solid-900.3a24a60e7f9c6574864a.eot",
+    "static/media/webfonts-fa-solid-900.ttf": "/static/media/webfonts-fa-solid-900.10ecefc282f2761808bf.ttf",
+    "static/media/webfonts-fa-brands-400.eot": "/static/media/webfonts-fa-brands-400.0fea24969112a781acd2.eot",
+    "static/media/webfonts-fa-brands-400.ttf": "/static/media/webfonts-fa-brands-400.ec82f282c7f54b637098.ttf",
+    "static/media/webfonts-fa-solid-900.woff": "/static/media/webfonts-fa-solid-900.46fdbd2d897f8824e63c.woff",
+    "static/media/webfonts-fa-brands-400.woff": "/static/media/webfonts-fa-brands-400.dc2cbadd690e1d4b2c9c.woff",
+    "static/media/webfonts-fa-solid-900.woff2": "/static/media/webfonts-fa-solid-900.3ceb50e7bcafb577367c.woff2",
+    "static/media/webfonts-fa-brands-400.woff2": "/static/media/webfonts-fa-brands-400.c967a94cfbe2b06627ff.woff2",
     "static/media/logo.png": "/static/media/logo.456f40f2b1c55cc08263.png",
+    "static/media/webfonts-fa-regular-400.eot": "/static/media/webfonts-fa-regular-400.08f9891a6f44d9546678.eot",
+    "static/media/webfonts-fa-regular-400.ttf": "/static/media/webfonts-fa-regular-400.1495f578452eb676f730.ttf",
+    "static/media/webfonts-fa-regular-400.woff": "/static/media/webfonts-fa-regular-400.1069ea55beaa01060302.woff",
+    "static/media/webfonts-fa-regular-400.woff2": "/static/media/webfonts-fa-regular-400.1008b5226941c24f4468.woff2",
     "index.html": "/index.html",
-    "main.8d0c50ef.css.map": "/static/css/main.8d0c50ef.css.map",
-    "main.9c2ad2db.js.map": "/static/js/main.9c2ad2db.js.map",
+    "main.33f0f36d.css.map": "/static/css/main.33f0f36d.css.map",
+    "main.31a59ab6.js.map": "/static/js/main.31a59ab6.js.map",
     "787.154fa29c.chunk.js.map": "/static/js/787.154fa29c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d0c50ef.css",
-    "static/js/main.9c2ad2db.js"
+    "static/css/main.33f0f36d.css",
+    "static/js/main.31a59ab6.js"
   ]
 }
