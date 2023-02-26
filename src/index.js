@@ -3,9 +3,10 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import './assets/css/style.css';
-import './assets/vendor/bootstrap/css/bootstrap.min.css';
-import './assets/vendor/bootstrap-icons/bootstrap-icons.css';
+import './assets/css/all.min.css';
+import './assets/css/bootstrap.min.css';
+import './assets/css/stylesheet.css';
+import './assets/css/color-yellow.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
